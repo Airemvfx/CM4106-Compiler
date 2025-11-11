@@ -1,0 +1,35 @@
+program ComprehensiveExample;
+const max: integer = 100;
+var sum, count, value: integer;
+var isValid: boolean;
+begin
+    // Initialize variables
+    sum := 0;
+    count := 0;
+    
+    // Read and process values
+    write 1;  // prompt for input
+    read value;
+    
+    while value != 0 do
+        // Check if value is valid (positive and less than max)
+        if value > 0 && value < max then
+            isValid := true;
+        else
+            isValid := false;
+        end;
+        
+        // Add valid values to sum
+        if isValid then
+            sum := sum + value;
+            count := count + 1;
+        end;
+        
+        // Read next value
+        read value;
+    end;
+    
+    // Output results
+    write count;
+    write sum;
+end;
