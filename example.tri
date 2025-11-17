@@ -1,0 +1,21 @@
+! test program - MiniSquare-25
+let local
+  char letterH == "H"
+  char letterE == "E"
+  char letterL == "L"
+  char letterO == "O"
+  char exclamation == "!"
+  int i
+in
+  i == 0
+  while i < 3 do {
+    put(letterH)
+    put(letterE)
+    put(letterL)
+    put(letterL)
+    put(letterO)
+    put(exclamation)
+	putint(i)
+    puteol()
+    i == i + 1
+  }
