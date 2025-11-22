@@ -1,0 +1,11 @@
+let local
+    char c;
+    int n == 0
+in {
+    get(c);           ! reads a char into c
+    n == ord(c);      ! convert char→int
+    if n > 60 then
+        put('H')
+    else
+        put('L')
+}

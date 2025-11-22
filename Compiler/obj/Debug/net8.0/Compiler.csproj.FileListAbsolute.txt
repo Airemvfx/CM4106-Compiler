@@ -1,0 +1,56 @@
+C:\Users\airem\Desktop\Lab4ModelSolution (1)\Lab4ModelSolution\Compiler\obj\Debug\net8.0\Compiler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\airem\Desktop\Lab4ModelSolution (1)\Lab4ModelSolution\Compiler\obj\Debug\net8.0\Compiler.AssemblyInfoInputs.cache
+C:\Users\airem\Desktop\Lab4ModelSolution (1)\Lab4ModelSolution\Compiler\obj\Debug\net8.0\Compiler.AssemblyInfo.cs
+C:\Users\airem\Desktop\Lab4ModelSolution (1)\Lab4ModelSolution\Compiler\obj\Debug\net8.0\Compiler.csproj.CoreCompileInputs.cache
+C:\Users\airem\Desktop\Lab4ModelSolution (1)\Lab4ModelSolution\Compiler\bin\Debug\net8.0\Compiler.exe
+C:\Users\airem\Desktop\Lab4ModelSolution (1)\Lab4ModelSolution\Compiler\bin\Debug\net8.0\Compiler.deps.json
+C:\Users\airem\Desktop\Lab4ModelSolution (1)\Lab4ModelSolution\Compiler\bin\Debug\net8.0\Compiler.runtimeconfig.json
+C:\Users\airem\Desktop\Lab4ModelSolution (1)\Lab4ModelSolution\Compiler\bin\Debug\net8.0\Compiler.dll
+C:\Users\airem\Desktop\Lab4ModelSolution (1)\Lab4ModelSolution\Compiler\bin\Debug\net8.0\Compiler.pdb
+C:\Users\airem\Desktop\Lab4ModelSolution (1)\Lab4ModelSolution\Compiler\obj\Debug\net8.0\Compiler.dll
+C:\Users\airem\Desktop\Lab4ModelSolution (1)\Lab4ModelSolution\Compiler\obj\Debug\net8.0\refint\Compiler.dll
+C:\Users\airem\Desktop\Lab4ModelSolution (1)\Lab4ModelSolution\Compiler\obj\Debug\net8.0\Compiler.pdb
+C:\Users\airem\Desktop\Lab4ModelSolution (1)\Lab4ModelSolution\Compiler\obj\Debug\net8.0\Compiler.genruntimeconfig.cache
+C:\Users\airem\Desktop\Lab4ModelSolution (1)\Lab4ModelSolution\Compiler\obj\Debug\net8.0\ref\Compiler.dll
+C:\Users\matri\Desktop\CM4106\MiniSquare-25 Steps\Compiler Tokenizer and Parser\Lab4ModelSolution\Compiler\obj\Debug\net8.0\Compiler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matri\Desktop\CM4106\MiniSquare-25 Steps\Compiler Tokenizer and Parser\Lab4ModelSolution\Compiler\obj\Debug\net8.0\Compiler.AssemblyInfoInputs.cache
+C:\Users\matri\Desktop\CM4106\MiniSquare-25 Steps\Compiler Tokenizer and Parser\Lab4ModelSolution\Compiler\obj\Debug\net8.0\Compiler.AssemblyInfo.cs
+C:\Users\matri\Desktop\CM4106\MiniSquare-25 Steps\Compiler Tokenizer and Parser\Lab4ModelSolution\Compiler\obj\Debug\net8.0\Compiler.csproj.CoreCompileInputs.cache
+C:\Users\matri\Desktop\CM4106\MiniSquare-25 Steps\Compiler Tokenizer and Parser\Lab4ModelSolution\Compiler\obj\Debug\net8.0\Compiler.dll
+C:\Users\matri\Desktop\CM4106\MiniSquare-25 Steps\Compiler Tokenizer and Parser\Lab4ModelSolution\Compiler\obj\Debug\net8.0\refint\Compiler.dll
+C:\Users\matri\Desktop\CM4106\MiniSquare-25 Steps\Compiler Tokenizer and Parser\Lab4ModelSolution\Compiler\obj\Debug\net8.0\Compiler.pdb
+C:\Users\matri\Desktop\CM4106\MiniSquare-25 Steps\Compiler Tokenizer and Parser\Lab4ModelSolution\Compiler\bin\Debug\net8.0\Compiler.exe
+C:\Users\matri\Desktop\CM4106\MiniSquare-25 Steps\Compiler Tokenizer and Parser\Lab4ModelSolution\Compiler\bin\Debug\net8.0\Compiler.deps.json
+C:\Users\matri\Desktop\CM4106\MiniSquare-25 Steps\Compiler Tokenizer and Parser\Lab4ModelSolution\Compiler\bin\Debug\net8.0\Compiler.runtimeconfig.json
+C:\Users\matri\Desktop\CM4106\MiniSquare-25 Steps\Compiler Tokenizer and Parser\Lab4ModelSolution\Compiler\bin\Debug\net8.0\Compiler.dll
+C:\Users\matri\Desktop\CM4106\MiniSquare-25 Steps\Compiler Tokenizer and Parser\Lab4ModelSolution\Compiler\bin\Debug\net8.0\Compiler.pdb
+C:\Users\matri\Desktop\CM4106\MiniSquare-25 Steps\Compiler Tokenizer and Parser\Lab4ModelSolution\Compiler\obj\Debug\net8.0\Compiler.genruntimeconfig.cache
+C:\Users\matri\Desktop\CM4106\MiniSquare-25 Steps\Compiler Tokenizer and Parser\Lab4ModelSolution\Compiler\obj\Debug\net8.0\ref\Compiler.dll
+C:\Users\matri\Desktop\CM4106\MiniSquare-25 Steps\Compiler AST\Lab4ModelSolution\Compiler\bin\Debug\net8.0\Compiler.exe
+C:\Users\matri\Desktop\CM4106\MiniSquare-25 Steps\Compiler AST\Lab4ModelSolution\Compiler\bin\Debug\net8.0\Compiler.deps.json
+C:\Users\matri\Desktop\CM4106\MiniSquare-25 Steps\Compiler AST\Lab4ModelSolution\Compiler\bin\Debug\net8.0\Compiler.runtimeconfig.json
+C:\Users\matri\Desktop\CM4106\MiniSquare-25 Steps\Compiler AST\Lab4ModelSolution\Compiler\bin\Debug\net8.0\Compiler.dll
+C:\Users\matri\Desktop\CM4106\MiniSquare-25 Steps\Compiler AST\Lab4ModelSolution\Compiler\bin\Debug\net8.0\Compiler.pdb
+C:\Users\matri\Desktop\CM4106\MiniSquare-25 Steps\Compiler AST\Lab4ModelSolution\Compiler\obj\Debug\net8.0\Compiler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matri\Desktop\CM4106\MiniSquare-25 Steps\Compiler AST\Lab4ModelSolution\Compiler\obj\Debug\net8.0\Compiler.AssemblyInfoInputs.cache
+C:\Users\matri\Desktop\CM4106\MiniSquare-25 Steps\Compiler AST\Lab4ModelSolution\Compiler\obj\Debug\net8.0\Compiler.AssemblyInfo.cs
+C:\Users\matri\Desktop\CM4106\MiniSquare-25 Steps\Compiler AST\Lab4ModelSolution\Compiler\obj\Debug\net8.0\Compiler.csproj.CoreCompileInputs.cache
+C:\Users\matri\Desktop\CM4106\MiniSquare-25 Steps\Compiler AST\Lab4ModelSolution\Compiler\obj\Debug\net8.0\Compiler.dll
+C:\Users\matri\Desktop\CM4106\MiniSquare-25 Steps\Compiler AST\Lab4ModelSolution\Compiler\obj\Debug\net8.0\refint\Compiler.dll
+C:\Users\matri\Desktop\CM4106\MiniSquare-25 Steps\Compiler AST\Lab4ModelSolution\Compiler\obj\Debug\net8.0\Compiler.pdb
+C:\Users\matri\Desktop\CM4106\MiniSquare-25 Steps\Compiler AST\Lab4ModelSolution\Compiler\obj\Debug\net8.0\Compiler.genruntimeconfig.cache
+C:\Users\matri\Desktop\CM4106\MiniSquare-25 Steps\Compiler AST\Lab4ModelSolution\Compiler\obj\Debug\net8.0\ref\Compiler.dll
+C:\Users\matri\Desktop\CM4106_Compilers\MiniSquare-25 Steps\Compiler AST\Lab4ModelSolution\Compiler\obj\Debug\net8.0\Compiler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matri\Desktop\CM4106_Compilers\MiniSquare-25 Steps\Compiler AST\Lab4ModelSolution\Compiler\obj\Debug\net8.0\Compiler.AssemblyInfoInputs.cache
+C:\Users\matri\Desktop\CM4106_Compilers\MiniSquare-25 Steps\Compiler AST\Lab4ModelSolution\Compiler\obj\Debug\net8.0\Compiler.AssemblyInfo.cs
+C:\Users\matri\Desktop\CM4106_Compilers\MiniSquare-25 Steps\Compiler AST\Lab4ModelSolution\Compiler\obj\Debug\net8.0\Compiler.csproj.CoreCompileInputs.cache
+C:\Users\matri\Desktop\CM4106_Compilers\MiniSquare-25 Steps\Compiler AST\Lab4ModelSolution\Compiler\obj\Debug\net8.0\Compiler.dll
+C:\Users\matri\Desktop\CM4106_Compilers\MiniSquare-25 Steps\Compiler AST\Lab4ModelSolution\Compiler\obj\Debug\net8.0\refint\Compiler.dll
+C:\Users\matri\Desktop\CM4106_Compilers\MiniSquare-25 Steps\Compiler AST\Lab4ModelSolution\Compiler\obj\Debug\net8.0\Compiler.pdb
+C:\Users\matri\Desktop\CM4106_Compilers\MiniSquare-25 Steps\Compiler AST\Lab4ModelSolution\Compiler\bin\Debug\net8.0\Compiler.exe
+C:\Users\matri\Desktop\CM4106_Compilers\MiniSquare-25 Steps\Compiler AST\Lab4ModelSolution\Compiler\bin\Debug\net8.0\Compiler.deps.json
+C:\Users\matri\Desktop\CM4106_Compilers\MiniSquare-25 Steps\Compiler AST\Lab4ModelSolution\Compiler\bin\Debug\net8.0\Compiler.runtimeconfig.json
+C:\Users\matri\Desktop\CM4106_Compilers\MiniSquare-25 Steps\Compiler AST\Lab4ModelSolution\Compiler\bin\Debug\net8.0\Compiler.dll
+C:\Users\matri\Desktop\CM4106_Compilers\MiniSquare-25 Steps\Compiler AST\Lab4ModelSolution\Compiler\bin\Debug\net8.0\Compiler.pdb
+C:\Users\matri\Desktop\CM4106_Compilers\MiniSquare-25 Steps\Compiler AST\Lab4ModelSolution\Compiler\obj\Debug\net8.0\Compiler.genruntimeconfig.cache
+C:\Users\matri\Desktop\CM4106_Compilers\MiniSquare-25 Steps\Compiler AST\Lab4ModelSolution\Compiler\obj\Debug\net8.0\ref\Compiler.dll

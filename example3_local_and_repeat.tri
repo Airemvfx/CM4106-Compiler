@@ -1,0 +1,7 @@
+let local 
+    int x == 3; 
+    int y == 0
+in 
+    repeat {
+        y == y + x
+    } until y > 20
