@@ -1,6 +1,0 @@
-count == 0;
-total == 0;
-while count < 5 do {
-    total == total + count;
-    count == count + 1
-}
