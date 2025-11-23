@@ -59,3 +59,10 @@ To-Do:
   + Implement more code examples for compiler.
   + Implement Code Generation.
 -----------------------------------
+
+### 24/11/2025 
+Work Done:
+  + Lab8Model Solution spelling changes (TypeDenoter -> TypeName)
+
+To-Do:
+-----------------------------------
